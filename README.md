@@ -1,13 +1,16 @@
-# xelon-login-signup-welcome-page-and-phone-auth
-this is a basic login and signup page with a welcome page and phone authentication
-login page ![login](https://github.com/mynameismhmd/xelon-login-signup-welcome-page-and-phone-auth/assets/118634852/df539d82-127a-426e-9a18-a36475291d46)
+# untitled9
 
+A new Flutter project.
 
+## Getting Started
 
-signup page ![signup](https://github.com/mynameismhmd/xelon-login-signup-welcome-page-and-phone-auth/assets/118634852/829b37c0-ec19-4965-a1fa-896ed11dcd37)
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-phone auth ![phone auth](https://github.com/mynameismhmd/xelon-login-signup-welcome-page-and-phone-auth/assets/118634852/991767b4-0937-4060-b70a-8b9348a4e3fb)
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
